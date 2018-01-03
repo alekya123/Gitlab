@@ -1,0 +1,28 @@
+{
+  "name": "jira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blowfish": "^1.0.1",
+    "blowfish-security-lib": "^1.0.1",
+    "cloudant": "^1.10.0",
+    "date-and-time": "^0.6.1",
+    "dateformat": "^3.0.2",
+    "egoroof-blowfish": "^2.0.0",
+    "gitlab": "^1.7.1",
+    "jira-rest": "0.0.2",
+    "moment": "^2.20.1",
+    "node-crypt": "^1.0.1",
+    "node-datetime": "^2.0.3",
+    "node-gitlab": "^1.6.0",
+    "trim": "0.0.1",
+    "trim-right": "^1.0.1",
+    "yamljs": "^0.3.0"
+  }
+}
